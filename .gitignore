@@ -1,0 +1,23 @@
+node_modules/
+.expo/
+dist/
+web-build/
+.vscode/
+
+# Variables d'environnement (clés Firebase / OpenWeather)
+.env
+
+# macOS
+.DS_Store
+
+# Logs
+npm-debug.*
+*.log
+
+# Natif
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
